@@ -3,9 +3,9 @@
 # Smart Agriculture Assistant 🎯
 
 ## Basic Details
-**Team Name:** [Name]
+**Team Name:** [TECHY TECH]
 
-**Team Members:** [Member 1 - College], [Member 2 - College]
+**Team Members:** [Member 1 -REEMA SULTHANA, MAMO COLLEGE], [Member 2 - ZAHWA T, MAMO COLLEGE]
 
 **Hosted Project Link:** [Link]
 
@@ -66,8 +66,8 @@ start smart_agri.html
 3. "Generate a professional README based on the codebase."
 
 ## Team Contributions
-- [Name]: [Contribution]
-- [Name]: [Contribution]
+- [Zahwa T]: [Innovative ideas]
+- [Reema]: [Innovative ideas]
 
 ---
 ## License
