@@ -7,7 +7,7 @@
 
 **Team Members:** [Member 1 -REEMA SULTHANA, MAMO COLLEGE], [Member 2 - ZAHWA T, MAMO COLLEGE]
 
-**Hosted Project Link:** [Link]
+**Hosted Project Link:** [https://reemasulthana096-sys.github.io/Smartagri/]
 
 **Project Description:**  
 A comprehensive web-based tool designed to assist farmers by providing detailed crop information (soil, fertilizer, pests, water) and an AI-powered chatbot for real-time agricultural queries.
